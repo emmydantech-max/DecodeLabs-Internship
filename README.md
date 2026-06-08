@@ -1,14 +1,41 @@
-# AI Chatbot
+# DecodeLabs DevOps Internship - Project Submission
 
-##  Project Title
-AI Chatbot
+## 👨‍💻 Intern: Emmanuel Daniel Akachukwu
 
-## Description
-This project is a simple AI chatbot built to simulate human-like conversations.  
-It can respond to user inputs and help answer basic questions or perform simple interactions.
+This repository contains my completed internship projects for DecodeLabs DevOps Track.
 
-##  How to Run
+---
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/devops-project2.git
+## 📌 Project 1: Linux & Command Line Basics
+- Basic Linux commands (ls, cd, mkdir, rm, cat)
+- File system navigation
+- Directory structure understanding
+
+---
+
+## 📌 Project 2: Version Control with Git
+- Git repository creation
+- Commit workflow
+- GitHub push operations
+- Version control basics
+
+---
+
+## 📌 Project 3: CI/CD Pipeline Basics
+- GitHub Actions workflow setup
+- Automated pipeline configuration
+- CI/CD fundamentals using .github/workflows
+
+---
+
+## 📂 Repository Structure
+
+- Project1-Linux-Basics/
+- Project2-Version-Control-Git/
+- .github/workflows/
+- app.py
+
+---
+
+## 🚀 Status
+All required internship projects completed successfully.
